@@ -3,8 +3,8 @@ package pge
 import (
 	"fmt"
 
-	probs "github.com/verdverm/go-pge/problems"
-	expr "github.com/verdverm/go-symexpr"
+	probs "github.com/andmeier/go-pge/problems"
+	expr "github.com/andmeier/go-symexpr"
 )
 
 func (PS *PgeSearch) GenInitExprMethod1() *probs.ReportQueue {

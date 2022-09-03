@@ -4,7 +4,7 @@ import (
 	// "fmt"
 	"sort"
 
-	expr "github.com/verdverm/go-symexpr"
+	expr "github.com/andmeier/go-symexpr"
 )
 
 func (PS *PgeSearch) ExpandMethod2(O expr.Expr) (ret []expr.Expr) {

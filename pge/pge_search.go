@@ -10,10 +10,10 @@ import (
 	"strconv"
 	"strings"
 
-	levmar "github.com/verdverm/go-levmar"
-	config "github.com/verdverm/go-pge/config"
-	probs "github.com/verdverm/go-pge/problems"
-	expr "github.com/verdverm/go-symexpr"
+	levmar "github.com/andmeier/go-levmar"
+	config "github.com/andmeier/go-pge/config"
+	probs "github.com/andmeier/go-pge/problems"
+	expr "github.com/andmeier/go-symexpr"
 )
 
 type pgeConfig struct {

@@ -3,7 +3,7 @@ package problems
 import (
 	"container/list"
 	"fmt"
-	expr "github.com/verdverm/go-symexpr"
+	expr "github.com/andmeier/go-symexpr"
 	"sort"
 )
 

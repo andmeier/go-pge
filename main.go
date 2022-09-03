@@ -11,8 +11,8 @@ import (
 	pprof "runtime/pprof"
 	"strings"
 
-	probs "github.com/verdverm/go-pge/problems"
-	expr "github.com/verdverm/go-symexpr"
+	probs "github.com/andmeier/go-pge/problems"
+	expr "github.com/andmeier/go-symexpr"
 	tmplt "text/template"
 )
 

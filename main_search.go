@@ -10,9 +10,9 @@ import (
 	"strings"
 	"time"
 
-	config "github.com/verdverm/go-pge/config"
-	pge "github.com/verdverm/go-pge/pge"
-	probs "github.com/verdverm/go-pge/problems"
+	config "github.com/andmeier/go-pge/config"
+	pge "github.com/andmeier/go-pge/pge"
+	probs "github.com/andmeier/go-pge/problems"
 )
 
 // defines the interface to a search type [GP,PE]

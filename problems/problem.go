@@ -6,7 +6,7 @@ import (
 	"strconv"
 	"strings"
 
-	expr "github.com/verdverm/go-symexpr"
+	expr "github.com/andmeier/go-symexpr"
 )
 
 type ExprProblemType int
